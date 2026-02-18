@@ -13,4 +13,4 @@
 
 ---
 
-> "I believe in writing code that is as honest as the logic behind it."
+> 心臓を捧げよ
