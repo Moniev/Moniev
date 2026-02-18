@@ -4,6 +4,14 @@
 
 ---
 
+### 🛠️ Core languages:
+
+* **Golang**
+* **TypeScript**
+* **Ruby**
+
+---
+
 ### 📫 Connect with me:
 
 * **LeetCode**: [Moniev](https://leetcode.com/Moniev/)
