@@ -1,5 +1,5 @@
 # Hi there, I'm Robert Moń 
-### Software Developer | Algorithmic Complexity Enthusiast 🚀
+### Software Developer | Algorithmic Complexity Enthusiast
 
 ---
 
