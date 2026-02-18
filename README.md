@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Robert Moń 👋
 
-<!--
-**Moniev/Moniev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Algorithmic Complexity Enthusiast 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+
+* **LinkedIn**: [Robert Moń](https://www.linkedin.com/in/robertmon/)
+* **LeetCode**: [Moniev](https://leetcode.com/Moniev/)
+* **Music**: [Celestial Eye Records](https://celestialeyerecords.bandcamp.com/)
+* **Instagram**: [@monievvvv](https://www.instagram.com/monievvvv/)
+
+---
+
+> "I believe in writing code that is as honest as the logic behind it."
