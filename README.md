@@ -6,7 +6,6 @@
 
 ### 📫 Connect with me:
 
-* **LinkedIn**: [Robert Moń](https://www.linkedin.com/in/robertmon/)
 * **LeetCode**: [Moniev](https://leetcode.com/Moniev/)
 * **Music**: [Celestial Eye Records](https://celestialeyerecords.bandcamp.com/)
 * **Instagram**: [@monievvvv](https://www.instagram.com/monievvvv/)
