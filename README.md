@@ -1,10 +1,9 @@
-# Hi there, I'm Robert Moń 👋
-
+# Hi there, I'm Robert Moń 
 ### Software Developer | Algorithmic Complexity Enthusiast 🚀
 
 ---
 
-### 🛠️ Core languages:
+### Core languages:
 
 * **Golang**
 * **TypeScript**
@@ -12,7 +11,7 @@
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 
 * **LeetCode**: [Moniev](https://leetcode.com/Moniev/)
 * **Music**: [Celestial Eye Records](https://celestialeyerecords.bandcamp.com/)
